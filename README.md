@@ -1,5 +1,8 @@
 # consult.me
 
+Front end application for the consult.ME web app, used to gather all needed information from the user before sending to web API.
+This is a work in progress and as such the styling and some functional aspects will not match the final application. 
+
 ## Project setup
 ```
 npm install
